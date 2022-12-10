@@ -11,8 +11,5 @@ def main():
 #This is the main function.
     print(random.choice(when), random.choice(who), random.choice(went), random.choice(happened))
 # Calling the main function
-if __name__  == '__main__':
-    main()
-# here the code of this program complete
-
+main()
     
